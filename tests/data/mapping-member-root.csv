@@ -1,0 +1,4 @@
+"target folder","target name","source folder","source name"
+"/","memberNo","/","customerNumber"
+"/","dob","/","dateOfBirth"
+"/","beneficiaries[]","/","beneficiaries[]"
